@@ -1,0 +1,35 @@
+@media(max-width: 776px){
+    .mask_group{
+        width: 660px;
+        height: 460px;
+    }
+    .proparity{
+        /* text-align: center; */
+        padding-left: 0rem;
+        padding-right: 0rem;
+        text-align: left;
+        padding-top: 3rem;
+    }
+    .alter{
+        text-align: left;
+    }
+    .twitter{
+        padding-bottom: 1rem;
+    }
+    .categories{
+        padding-bottom: 1rem;
+    }
+    .logo-footer{
+        font-size: 18px;   font-family: Poppins-Medium;
+        padding-left: 0rem;
+        letter-spacing: 5px;
+    
+    }
+    .imges{
+        width: 500px;
+    }
+    .resize{
+        width: 500px;
+        height: 500px;
+    }
+}
